@@ -1,0 +1,10 @@
+*.csv
+/OneDrive_1_05-10-2018
+*/*.csv
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
